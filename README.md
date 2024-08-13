@@ -1,1 +1,2 @@
-# Ass-1
+# Assigment -1
+Full Stack Technologies
